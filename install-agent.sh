@@ -5,6 +5,7 @@
 . centos.sh
 . debian.sh
 . ubuntu.sh
+. ssh_config_keys.sh
 
 
 #Codicional para verificação de sistema operacional:
